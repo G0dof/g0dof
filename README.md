@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋,  Pedro here!<br><br>I'm a passionate programmer from Brasil 🟩🟨🟦<br><br>I started my programming studies at the beginning<br>of the pandemic, where I started with Python language <br> . And then I had my first contacts <br>with the world of programming 🤩.<br><br>🌱 I'm currently learning about Javascript. <br><br>🔎 Now looking for a internship<br><br>
+Hi 👋,  Pedro here!<br><br>I'm a passionate programmer from Brasil 🟩🟨🟦<br><br>I started my programming studies at the beginning of the pandemic, where I started with Python language. And then I had my first contacts with the world of programming 🤩.<br><br>🌱 I'm currently learning about Javascript. <br><br>🔎 Now looking for a internship<br><br>
 
 
 ## 🌐 Socials:
