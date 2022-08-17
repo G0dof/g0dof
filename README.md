@@ -16,4 +16,4 @@ Hi 👋,  Pedro here!<br><br>I'm a passionate programmer from Brasil 🟩🟨�
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=G0dof&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=g0dof&label=Profile%20Views&color=4&pretty=true)](https://visitcount.itsvg.in)
