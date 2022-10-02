@@ -11,8 +11,5 @@ Hi 👋,  Pedro here!<br><br>I'm a passionate programmer from Brasil 🟩🟨�
 ![](https://github-readme-streak-stats.herokuapp.com/?user=G0dof&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=G0dof&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=g0dof&label=Profile%20Views&color=4&pretty=true)](https://visitcount.itsvg.in)
