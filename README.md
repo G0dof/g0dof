@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋,  Pedro here!</h2>
+<h2 align="center">Hi 👋,  Pedro here!</h2>
+<img align="right" height="150" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"  />
 
 <h3 align="left">I'm a brazilian developer 🟩🟨🟦</h3>
 
@@ -31,9 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
-<img align="right" height="150" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"  />
 
-<div align="left">
+<div align="center">
   <a href="https://instagram.com/_pedrozord" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -46,6 +46,7 @@
 </div>
 
 <br clear="both">
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/G0dof/count.svg?"  />
