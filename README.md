@@ -1,25 +1,15 @@
 <h2 align="left">Hi 👋,  Pedro here!</h2>
 
-###
-
 <h3 align="left">I'm a brazilian developer 🟩🟨🟦</h3>
-
-###
 
 <p align="left">I started my programming studies at the beginning of the pandemic, where I started with Python language. And then I had my first contacts with the world of programming.</p>
 
-###
-
 <h4 align="left">🌱 I'm currently learning about Node.js.</h4>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=G0dof&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G0dof&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -41,11 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
-###
-
 <img align="right" height="150" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"  />
-
-###
 
 <div align="center">
   <a href="https://instagram.com/_pedrozord" target="_blank">
@@ -59,16 +45,10 @@
   </a>
 </div>
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/G0dof/G0dof/output/snake.svg" alt="Snake animation" />
 
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/G0dof/count.svg?"  />
 </div>
-
-###
