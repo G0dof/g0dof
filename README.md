@@ -47,8 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/G0dof/G0dof/output/snake.svg" alt="Snake animation" />
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/G0dof/count.svg?"  />
 </div>
