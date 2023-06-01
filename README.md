@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋,  Pedro here!<br><br>I'm a brazilian developer 🟩🟨🟦<br><br>I started my programming studies at the beginning<br>of the pandemic, where I started with Python language.<br> And then I had my first contacts with the world of programming.<br><br>🌱 I'm currently learning about Java, Linux and Cibersecurity. <br><br>🔎 Now looking for a internship.<br><br>
+Hi 👋,  Pedro here!<br><br>I'm a brazilian developer 🟩🟨🟦<br><br>I started my programming studies at the beginning<br>of the pandemic, where I started with Python language.<br> And then I had my first contacts with the world of programming.<br><br>🌱 I'm currently learning about Node.js.
 
 
 ## 🌐 Socials:
