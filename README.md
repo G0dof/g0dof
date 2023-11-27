@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋,  Pedro here!</h2>
 <img align="right" height="150" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"  />
-
+<br>
 <h3 align="left">I'm a brazilian developer 🟩🟨🟦</h3>
 
 <p align="left">I started my programming studies at the beginning of the pandemic, where I started with Python language. And then I had my first contacts with the world of programming.</p>
@@ -8,7 +8,7 @@
 <h4 align="left">🌱 I'm currently learning about Node.js.</h4>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G0dof&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=G0dof&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G0dof&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -44,7 +44,6 @@
 </div>
 
 <br clear="both">
-
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/G0dof/count.svg?"  />
